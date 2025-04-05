@@ -20,6 +20,12 @@ Control      Acción
 WASD	       Movimiento del personaje
 Mouse	       Rotar cámara
 
+**Video Demostración**
+
+https://youtu.be/EVDOL93jbG8
+
+**Imágenes Demmostrativas**
+
 ![image](https://github.com/user-attachments/assets/ab25865e-105e-49fe-a5bc-f9327e8e8413)
 ![image](https://github.com/user-attachments/assets/cd81c94e-5c23-415f-9876-6af085cb1db2)
 ![image](https://github.com/user-attachments/assets/d50e156c-86c4-4290-88cf-463e4c5fc2e8)
